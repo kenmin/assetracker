@@ -1,0 +1,7 @@
+AsseTracker - a Java EE 6/JBoss 7 patterns project
+
+Description: This project started out of a need to consolidate various strands of code that I use at work. Things such as securing a WAR with Java EE security, using Java Persistence API to query Databases, and JSF 2.0 with PrimeFaces 3 templates are some of the things I intend to include in this project.
+
+To give the project a little more meaning, and to motivate myself to get things done fast(er), I combined this with the need to organize and categorize the assets around the house. With multiple computers, devices and legacy equipment lying around, I needed something to keep track of all of them (especially those pesky receipts).
+
+I hope you find the code here useful. If you have any comments or questions, feel free to drop me an email at isthmus86@gmail.com
